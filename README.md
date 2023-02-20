@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title></title>
   </head>
   <body>
     <h1>Product Scraper</h1>
@@ -22,7 +21,6 @@
     <h2>Implementation</h2>
     <p>The scraper is implemented in Go and uses the <a href="https://github.com/gocolly/colly">Colly</a> library for web scraping.</p>
     <p>The <code>main</code> function:</p>
-    <pre><code>PLACEHOLDER_FOR_CODE</code></pre>
     <p>For more information on the implementation, please refer to the code comments.</p>
   </body>
 </html>
