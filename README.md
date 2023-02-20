@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Go Product Scraper</title>
+    <title></title>
   </head>
   <body>
     <h1>Product Scraper</h1>
